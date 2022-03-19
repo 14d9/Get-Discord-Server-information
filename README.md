@@ -11,13 +11,13 @@ Created By : Ali
 - DiscordWebhook
 
 
-![program pic]()
+![program pic](https://github.com/14d9/Get-Discord-Server-information/blob/master/img/Get%20Discord%20Server%20information.png)
 
 
        
 
  ## Download
- > Download : [ClickHere]() ()
+ > Download : [ClickHere](https://github.com/14d9/Get-Discord-Server-information/archive/refs/heads/master.zip) (Get-Discord-Server-information-master.zip)
 
      
 
