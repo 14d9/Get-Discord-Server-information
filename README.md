@@ -8,7 +8,6 @@ Created By : Ali
 - requests
 - webbrowser
 - time
-- DiscordWebhook
 
 
 ![program pic](https://github.com/14d9/Get-Discord-Server-information/blob/master/img/Get%20Discord%20Server%20information.png)
