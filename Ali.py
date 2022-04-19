@@ -1,6 +1,4 @@
-import requests
-import webbrowser
-import time
+import requests, webbrowser, time
 
 print("""
       _____    __    ____                       _      ___                    __  _         
@@ -31,7 +29,7 @@ if choice == 1 :
             'user-agent': 'ios:2.65.0:488:14:iPhone13,3',
       }
       req = requests.get(url,headers=headers)
-      instagram = 'https://www.instagram.com/14d9/'
+      instagram = 'https://www.instagram.com/q97l/'
 
       if req.status_code == 200:
             id = req.json()["guild"]["id"]
